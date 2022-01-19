@@ -271,7 +271,7 @@ button{
     width: calc(100% - 30px);
     left: 50%;
     transform: translateX(-50%);
-    z-index: 1;
+    z-index: 0;
 }
 
 .bg-circles div{
